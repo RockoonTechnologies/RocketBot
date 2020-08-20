@@ -132,4 +132,4 @@ $credits - does what the name says
             await message.channel.send("Whoa we encountered an Error")
     
         
-client.run('NzM0OTk0MzQ2NDQ4NzgxMzgz.XxZy0w.aJkEvI18vVtH4mhWFDKga-Z-uyQ')
+client.run('bot token')

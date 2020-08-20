@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 import plotly.io as pio
 
-mapbox_access_token = "pk.eyJ1IjoibWVlcGVycyIsImEiOiJja2UwNTE4cmYyOWE1MnhtY2lrd3NkY3oyIn0.y6jfb44p5jpJflTxLhXZ2g"
+mapbox_access_token = "Mapbox public api token"
 
 fig = go.Figure(go.Scattermapbox(
         lat=['45.5017'],
